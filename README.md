@@ -10,4 +10,4 @@
 Link : https://drive.google.com/drive/folders/1_NcxexCvHiTS4bOFObGt56EmHmCGCffH?usp=sharing  
 
 
-2. ** NATTAPAT RATANA - Tableau.rar ** - เป็นผลงานที่ได้เรียนมาจากหลักสูตรของมหาวิทยาลัย เป็นวิชา Data Analysis ใช้โปรแกรม Tableau ในการสร้างตารางสำหรับการวิเคราะห์ โดยมีผลงานการวิเคราะห์ของระบบโรงงานรถยนต์
+3. ** NATTAPAT RATANA - Tableau.rar ** - เป็นผลงานที่ได้เรียนมาจากหลักสูตรของมหาวิทยาลัย เป็นวิชา Data Analysis ใช้โปรแกรม Tableau ในการสร้างตารางสำหรับการวิเคราะห์ โดยมีผลงานการวิเคราะห์ของระบบโรงงานรถยนต์
